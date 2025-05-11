@@ -1,0 +1,14 @@
+{
+  "9345759598": {
+    "farm_name": "Green Valley Farms",
+    "node_red_url": "http://example.com:1880/farm1"
+  },
+  "7010747370": {
+    "farm_name": "Sunny Side Farm",
+    "node_red_url": "http://example.com:1880/farm2"
+  },
+  "1122334455": {
+    "farm_name": "High Tech Farm",
+    "node_red_url": "http://example.com:1880/farm3"
+  }
+}
